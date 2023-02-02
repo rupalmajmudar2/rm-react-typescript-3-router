@@ -12,8 +12,8 @@ const Contact = (props) => {
     setTimeout( () => {
         //props.history.push('/about')
         //<Navigate replace to="/about" />
-        navigate('/about')
-    }, 2000) //wait 2s then go to /about
+        navigate('/')
+    }, 2000) //wait 2s then go to /home
     return (
         <div>
             <Modal></Modal>

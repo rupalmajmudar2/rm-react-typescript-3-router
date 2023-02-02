@@ -2,6 +2,7 @@
 import React from 'react';
 import './modal.css';
 
+//z-paint issues. Correct modal is as done in Contact.js
 const About = () => {
     return (
         <div>
